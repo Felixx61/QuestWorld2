@@ -44,9 +44,9 @@
 		<!-- Bukkit/Spigot dep -->
 		<!-- We use spigot-api for spigot specific code on supported servers -->
 		<dependency>
-			<groupId>org.spigotmc</groupId>
-			<artifactId>spigot-api</artifactId>
-			<version>1.12.2-R0.1-SNAPSHOT</version>
+			<groupId>org.bukkit</groupId>
+			<artifactId>bukkit</artifactId>
+			<version>1.13-pre5-R0.1-SNAPSHOT</version>
 			<scope>provided</scope>
 		</dependency>
 		<!-- Vault dep -->
